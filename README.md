@@ -1,15 +1,42 @@
-# 📦 Webpack Boilerplate
+# 👾 AGL Developer Programming Challenge
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![David](https://img.shields.io/david/dev/taniarascia/webpack-boilerplate)
+This is a sample code to consume a json hosted at [ http://agl-developer-test.azurewebsites.net/people.json](http://agl-developer-test.azurewebsites.net/people.json) and output a list of all the cats in alphabetical order under a heading of the gender of their owner.
 
-Minimal Webpack 4 boilerplate with Babel, Sass, ESLint, Hot Module Replacement, and development/production optimization.
+Example:
 
+```yml
+Male
+- Angel
+- Molly
+- Tigger
+
+Female
+- Gizmo
+- Jasper
+```
+
+## Scripts
+
+```bash
+# to install node modules (to be done once)
+npm install
+
+# to run the project
+npm start
+
+# to run test suites
+npm test
+
+# to create build
+npm run build
 ## Installation
 
 ```
+
 git clone git@github.com:taniarascia/webpack-boilerplate
 npm i
-```
+
+````
 
 ## Usage
 
@@ -17,7 +44,7 @@ npm i
 
 ```bash
 npm start
-```
+````
 
 You can view the development server at `localhost:8080`.
 
@@ -29,11 +56,11 @@ npm run build
 
 > Note: Install [http-server](https://www.npmjs.com/package/http-server) globally to deploy a simple server.
 
-```bash 
+```bash
 npm i -g http-server
 ```
 
-You can view the deploy by creating a server in `dist`. 
+You can view the deploy by creating a server in `dist`.
 
 ```bash
 cd dist && http-server
@@ -90,7 +117,7 @@ cd dist && http-server
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [Matt Hammet](https://www.hammet.com.au)
 
 ## License
 
