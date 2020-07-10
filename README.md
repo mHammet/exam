@@ -29,7 +29,7 @@ npm test
 
 # to create build
 npm run build
-## Installation
+
 
 ```
 
@@ -39,8 +39,7 @@ npm run build
 ![screenshot](./public/output.png)
 
 
-
-This project is written using the following tools:
+## Tools and libraries used:
 
 - JavaScript [`ES2015`](https://babeljs.io/learn-es2015/) version
 - [`Webpack`](https://webpack.js.org/) as module bundler
