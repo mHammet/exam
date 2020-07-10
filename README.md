@@ -33,37 +33,13 @@ npm run build
 
 ```
 
-git clone git@github.com:taniarascia/webpack-boilerplate
-npm i
+This project is written using the following tools:
 
-````
-
-## Usage
-
-### Development server
-
-```bash
-npm start
-````
-
-You can view the development server at `localhost:8080`.
-
-### Production build
-
-```bash
-npm run build
-```
-
-> Note: Install [http-server](https://www.npmjs.com/package/http-server) globally to deploy a simple server.
-
-```bash
-npm i -g http-server
-```
-
-You can view the deploy by creating a server in `dist`.
-
-```bash
-cd dist && http-server
+- JavaScript [`ES2015`](https://babeljs.io/learn-es2015/) version
+- [`Webpack 2.x`](https://webpack.js.org/) as module bundler
+- [`Babel JS`](https://babeljs.io/) as the compiler.
+- [`Mocha JS`](https://mochajs.org/) testing framework.
+- [`Chai JS`](http://chaijs.com/) as the assertion library
 ```
 
 ## Features
