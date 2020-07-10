@@ -56,8 +56,8 @@ This project is written using the following tools:
 
 - **Matt Hammet** - [Hammet.com.au](http://www.hammet.com.au)
 
-```
+
 ## License
-```
+
 This project is open source and available under the [MIT License](LICENSE).
 ```
