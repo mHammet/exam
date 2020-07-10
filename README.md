@@ -28,7 +28,7 @@ npm start
 npm test
 
 # to create build
-npm run build
+npm run-script build
 
 
 ```
