@@ -1,6 +1,6 @@
 # 👾  Developer Programming Challenge
 
-This is a sample code to consume a json and output a list of all the cats in alphabetical order under a heading of the gender of their owner.
+This is a sample web application to consume json and output a list of all the cats in alphabetical order under a heading of the gender of their owner.
 
 Example:
 
@@ -48,7 +48,7 @@ This project is written using the following tools:
 - [`Mocha JS`](https://mochajs.org/) testing framework.
 - [`Chai JS`](http://chaijs.com/) as the assertion library
 
-```
+
 
 
 ```
