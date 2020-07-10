@@ -1,5 +1,4 @@
 import "babel-polyfill";
-
 import { App } from "../src/app";
 import chai from "chai";
 import data from "./data.json";
