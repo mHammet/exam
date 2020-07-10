@@ -51,11 +51,8 @@ This project is written using the following tools:
 
 
 
-```
 
 ## Author
-
-```
 
 - **Matt Hammet** - [Hammet.com.au](http://www.hammet.com.au)
 
