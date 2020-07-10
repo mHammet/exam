@@ -35,7 +35,7 @@ npm run build
 
 ## Example Output
 
-Aims to align with the corporate visual language
+Aims to demonstrate an understanding of the corporate visual language
 
 ![screenshot](./public/output.png)
 
