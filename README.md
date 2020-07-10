@@ -36,7 +36,7 @@ npm run build
 This project is written using the following tools:
 
 - JavaScript [`ES2015`](https://babeljs.io/learn-es2015/) version
-- [`Webpack 2.x`](https://webpack.js.org/) as module bundler
+- [`Webpack`](https://webpack.js.org/) as module bundler
 - [`Babel JS`](https://babeljs.io/) as the compiler.
 - [`Mocha JS`](https://mochajs.org/) testing framework.
 - [`Chai JS`](http://chaijs.com/) as the assertion library
