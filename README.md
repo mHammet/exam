@@ -36,7 +36,7 @@ npm run build
 ## Expected Output
 
 ```bash
-![screenshot](./public/output.png)
+![screenshot](/public/output.png)
 
 ```
 
