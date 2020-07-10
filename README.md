@@ -1,6 +1,6 @@
-# 👾 AGL Developer Programming Challenge
+# 👾  Developer Programming Challenge
 
-This is a sample code to consume a json hosted at [ http://agl-developer-test.azurewebsites.net/people.json](http://agl-developer-test.azurewebsites.net/people.json) and output a list of all the cats in alphabetical order under a heading of the gender of their owner.
+This is a sample code to consume a json and output a list of all the cats in alphabetical order under a heading of the gender of their owner.
 
 Example:
 
@@ -51,7 +51,7 @@ This project is written using the following tools:
 ```
 
 
-```
+
 
 ## Author
 
