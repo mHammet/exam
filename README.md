@@ -1,4 +1,4 @@
-# 👾  Developer Programming Challenge
+# 🐈  Developer Programming Challenge
 
 This is a sample web application to consume json and output a list of all the cats in alphabetical order under a heading of the gender of their owner.
 
