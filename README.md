@@ -33,6 +33,13 @@ npm run build
 
 ```
 
+## Expected Output
+
+```bash
+![screenshot](./public/output.png)
+
+```
+
 This project is written using the following tools:
 
 - JavaScript [`ES2015`](https://babeljs.io/learn-es2015/) version
@@ -40,14 +47,18 @@ This project is written using the following tools:
 - [`Babel JS`](https://babeljs.io/) as the compiler.
 - [`Mocha JS`](https://mochajs.org/) testing framework.
 - [`Chai JS`](http://chaijs.com/) as the assertion library
+
 ```
 
 
 ```
+
 ## Author
 
-* **Matt Hammet**  - [Hammet.com.au](http://www.hammet.com.au)
+- **Matt Hammet** - [Hammet.com.au](http://www.hammet.com.au)
+
 ```
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+```
