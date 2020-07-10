@@ -33,8 +33,9 @@ npm run build
 
 ```
 
-## Expected Output
+## Example Output
 
+Aims to align with the corporate visual language
 
 ![screenshot](./public/output.png)
 
