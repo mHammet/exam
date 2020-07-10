@@ -35,10 +35,10 @@ npm run build
 
 ## Expected Output
 
-```bash
-![screenshot](/public/output.png)
 
-```
+![screenshot](./public/output.png)
+
+
 
 This project is written using the following tools:
 
